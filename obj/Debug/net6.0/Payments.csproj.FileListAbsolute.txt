@@ -1,0 +1,15 @@
+C:\Projetos\BaltaIO\Payments\bin\Debug\net6.0\Payments.exe
+C:\Projetos\BaltaIO\Payments\bin\Debug\net6.0\Payments.deps.json
+C:\Projetos\BaltaIO\Payments\bin\Debug\net6.0\Payments.runtimeconfig.json
+C:\Projetos\BaltaIO\Payments\bin\Debug\net6.0\Payments.dll
+C:\Projetos\BaltaIO\Payments\bin\Debug\net6.0\Payments.pdb
+C:\Projetos\BaltaIO\Payments\obj\Debug\net6.0\Payments.csproj.AssemblyReference.cache
+C:\Projetos\BaltaIO\Payments\obj\Debug\net6.0\Payments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BaltaIO\Payments\obj\Debug\net6.0\Payments.AssemblyInfoInputs.cache
+C:\Projetos\BaltaIO\Payments\obj\Debug\net6.0\Payments.AssemblyInfo.cs
+C:\Projetos\BaltaIO\Payments\obj\Debug\net6.0\Payments.csproj.CoreCompileInputs.cache
+C:\Projetos\BaltaIO\Payments\obj\Debug\net6.0\Payments.dll
+C:\Projetos\BaltaIO\Payments\obj\Debug\net6.0\refint\Payments.dll
+C:\Projetos\BaltaIO\Payments\obj\Debug\net6.0\Payments.pdb
+C:\Projetos\BaltaIO\Payments\obj\Debug\net6.0\Payments.genruntimeconfig.cache
+C:\Projetos\BaltaIO\Payments\obj\Debug\net6.0\ref\Payments.dll
